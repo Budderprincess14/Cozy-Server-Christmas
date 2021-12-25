@@ -23,6 +23,17 @@ html {
     padding: 0, 20px, 20px, 20px;
 }
 
+/*Background*/
+html {
+    background: rgb(12,123,20);
+}
+
+/*Text Formatting*/
+html {
+    font-family: 'Life Savers', cursive;
+    color: rgb(225, 194, 10);
+    height: 100%;
+}
 
 
 ```
