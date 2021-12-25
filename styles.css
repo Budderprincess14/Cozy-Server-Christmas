@@ -35,5 +35,29 @@ html {
     height: 100%;
 }
 
+body {
+    width: 600px;
+    margin: 0 auto;
+    padding: 0 20px 20px 20px;
+}
+
+h1 {
+    font-family: 'Life Savers Bold';
+    margin: 0;
+    padding: 20px 0;
+    text-align: center;
+    font-style: italic;
+}
+
+p {
+    font-size: 1.5em;
+    text-align: center;
+    text-indent: 40px;
+}
+
+.sig {
+    text-align: right;
+    font-style: italic;
+}
 
 ```
